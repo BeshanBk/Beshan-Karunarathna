@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Beshan karunarathna</h1>
 <h3 align="center">A passionate Data Analyst / Business Analyst / Content Creater and Editer / Digital Marketer and Social Media Marketer in Sri Lanka</h3>
-
+---
 - 🌱 I’m currently learning **Data Analyzing and Business Analyzing**
 
 - 👯 I’m looking to collaborate on **Organizations**
